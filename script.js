@@ -1,7 +1,7 @@
 var button = document.querySelector('.get-joke');
 var output = document.querySelector('.joke');
 
-var url = 'http://api.icndb.com/jokes/random';
+var url = 'https://api.icndb.com/jokes/random';
 
 button.addEventListener('click', function(){
   getJoke();
