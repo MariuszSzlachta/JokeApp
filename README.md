@@ -1,4 +1,4 @@
-iuszszlachta.github.io/JokeApp/
+https://mariuszszlachta.github.io/JokeApp/
 
 
 # JokeApp
